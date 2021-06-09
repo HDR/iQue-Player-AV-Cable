@@ -3,6 +3,8 @@
 This repo is intended to help people with creating AV cables for their iQue Players, the av cable is created by trimming an OG Xbox AV cable, this can be harvested or [purchased from aliexpress](https://www.aliexpress.com/item/33014171056.html)
 
 
+The sleeve is 3d printed in TPU, wired up and glued in place with super glue.
+
 
 ## Pinout (Needed for Composite out and 5V Power)
 
